@@ -1,0 +1,6 @@
+name: NetherNoBurn
+version: '1.0'
+main: me.frog.netherNoBurn.NetherNoBurn
+api-version: '1.21'
+author: 'FROG__MAN'
+description: 'Prevents wooden blocks from burning in the Nether while allowing fire visuals.'
